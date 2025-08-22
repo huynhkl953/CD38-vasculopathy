@@ -1,0 +1,14 @@
+cell_type,color,Pan_Cytokeratin,Keratin_14,VIM,CD31,CD38,Podoplanin,CD45,HLA_DR,CD11c,CD141,CD56,FOXP3,CD4,CD8,CD20,CD3e,MPO
+Epithelial,,1,1,,,,,,,,,,,,,,,
+Fibroblast,,,,1,,,,,,,,,,,,,,
+VEC,,,,,1,,,,,,,,,,,,,
+LECs,,,,,1,,1,,,,,,,,,,,
+DC cells,,,,,,,,1,1,1,1,,,,,,,
+NK cells,,,,,,,,1,,,,1,,,,,,
+Treg,,,,,,,,1,,,,,1,1,,,1,
+Th,,,,,,,,1,,,,,,1,,,1,
+Tc,,,,,,,,1,,,,,,,1,,1,
+B cells,,,,,,,,1,1,1,,,,,1,1,,
+Macrophage,,,,,,,,,,,,,,,,,,
+Neutrophil,,,,,,,,1,1,1,,,,,,,,1
+CD38 VECs,,,,,1,1,,,,,,,,,,,,
